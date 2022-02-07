@@ -1,0 +1,2 @@
+# Chartmore
+Algorithmic trading bot
